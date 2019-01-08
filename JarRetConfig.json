@@ -1,0 +1,7 @@
+ {
+   "Port": "7777",
+   "Log": "logs.txt",
+   "ResponseFile": "response.txt",
+   "MaxSize": "4096",
+   "DelayTime": "300"
+  }
